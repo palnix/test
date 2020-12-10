@@ -1,0 +1,12 @@
+{
+  "RESTHeader": {
+    "Responsibility": "APPLICATION_DEVELOPER",
+    "RespApplication": "FND",
+    "SecurityGroup": "STANDARD",
+    "NLSLanguage": "AMERICAN",
+    "Org_Id": "0"
+  },
+  "InputParameters": {
+    "P_INVOICE_ID": "571071"
+  }
+}
